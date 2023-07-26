@@ -63,4 +63,4 @@ Upon running the program, you will be prompted to enter whether you are a client
 - The `Inventory` class handles the management of products and their operations.
 
 ## Conclusion
-The Pharmacy Management System allows clients to purchase products and administrators to manage the inventory efficiently. The provided code serves as a foundation, and you can extend it to add more features, error handling, and improve the user interface as per your specific needs.
+The Pharmacy Management System allows clients to purchase products and administrators to manage the inventory efficiently.
