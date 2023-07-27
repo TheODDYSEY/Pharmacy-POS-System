@@ -61,6 +61,7 @@ Upon running the program, you will be prompted to enter whether you are a client
 - The provided code does not include the implementation of the `Client` and `Admin` classes' methods, so make sure to add them based on your requirements.
 - The implementation assumes the existence of a `SalesTable` class for tracking daily sales.
 - The `Inventory` class handles the management of products and their operations.
-
+- Ensure `recordone` or `inventory.txt` are in same directory as main cpp file to be able to load inventory items.
+  
 ## Conclusion
 The Pharmacy Management System allows clients to purchase products and administrators to manage the inventory efficiently.
